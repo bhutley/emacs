@@ -188,4 +188,6 @@ src/globals.h
 src/stamp-h1
 src/stamp-oldxmenu
 src/temacs
-
+autom4te.cache/*
+lisp/loaddefs.el
+nextstep/Emacs.app/*
